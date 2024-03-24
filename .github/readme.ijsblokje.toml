@@ -1,7 +1,7 @@
 [project]
 icon = "https://raw.githubusercontent.com/snowcrystals/.github/main/logo.png"
 icon_width = "100px"
-version = "0.0.1"
+version = "1.0.0"
 
 [variables]
 information = "🔗 Extended version of the [@sapphire/eslint-config](https://npmjs.org/@sapphire/eslint-config) package."
