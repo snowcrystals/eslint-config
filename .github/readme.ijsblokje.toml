@@ -4,5 +4,5 @@ icon_width = "100px"
 version = "0.0.1"
 
 [variables]
-information = "Just a template, like an uncolored drawing. That's all. ✏️"
-installation = "To use this template, you will need the following: `pnpm` and `node >= 18.16.0`."
+information = "🔗 Extended version of the [@sapphire/eslint-config](https://npmjs.org/@sapphire/eslint-config) package."
+installation = "Install the package and add a `.eslintrc.js` file with the following content:\n```js\nmodule.exports = {\n  extends: '@sapphire/eslint-config'\n};\n```"

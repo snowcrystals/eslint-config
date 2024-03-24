@@ -1,6 +1,6 @@
 const eslintConfig = {
 	extends: ["@sapphire"],
-	plugins: ["simple-import-sort"],
+	plugins: ["simple-import-sort", "import"],
 	rules: {
 		"simple-import-sort/imports": "error",
 		"simple-import-sort/exports": "error",
