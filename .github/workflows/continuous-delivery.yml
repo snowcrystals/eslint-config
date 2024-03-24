@@ -47,6 +47,6 @@ jobs:
           # Resolve the tag to be used. "next" for push events, "pr-{prNumber}" for dispatch events.
           TAG=$([[ ${{ github.event_name }} == 'push' ]] && echo 'next' || echo 'pr-${{ github.event.inputs.prNumber }}')
           pnpm run bump -n "@${{ github.repository }}" -p . --preid "${TAG}.$(git rev-parse --verify --short HEAD)"
-          pnpm publish --tag ${TAG}
+          pnpm publish --no-git-checks --tag ${TAG}
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_PUBLISH_TOKEN }}
