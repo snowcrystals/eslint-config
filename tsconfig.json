@@ -1,0 +1,13 @@
+{
+	"extends": ["@sapphire/ts-config", "@sapphire/ts-config/extra-strict", "@sapphire/ts-config/verbatim"],
+	"compilerOptions": {
+		"outDir": "./dist",
+		"noUnusedParameters": false,
+		"useUnknownInCatchVariables": false,
+		"module": "NodeNext",
+		"moduleResolution": "NodeNext",
+		"tsBuildInfoFile": ".tsbuildinfo"
+	},
+	"exclude": ["node_modules"],
+	"include": ["./src/**/*"]
+}

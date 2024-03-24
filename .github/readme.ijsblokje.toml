@@ -1,0 +1,8 @@
+[project]
+icon = "https://raw.githubusercontent.com/snowcrystals/.github/main/logo.png"
+icon_width = "100px"
+version = "0.0.1"
+
+[variables]
+information = "Just a template, like an uncolored drawing. That's all. ✏️"
+installation = "To use this template, you will need the following: `pnpm` and `node >= 18.16.0`."
