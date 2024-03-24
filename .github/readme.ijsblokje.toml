@@ -5,4 +5,4 @@ version = "0.0.1"
 
 [variables]
 information = "🔗 Extended version of the [@sapphire/eslint-config](https://npmjs.org/@sapphire/eslint-config) package."
-installation = "Install the package and add a `.eslintrc.js` file with the following content:\n```js\nmodule.exports = {\n  extends: '@sapphire/eslint-config'\n};\n```"
+installation = "Install the package and add a `.eslintrc.js` file with the following content:\n```js\nmodule.exports = {\n  extends: '@snowcrystals/eslint-config'\n};\n```"
