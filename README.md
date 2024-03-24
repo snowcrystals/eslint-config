@@ -29,11 +29,16 @@
 
 ## Information
 
-Just a template, like an uncolored drawing. That's all. ✏️
+🔗 Extended version of the [@sapphire/eslint-config](https://npmjs.org/@sapphire/eslint-config) package.
 
 ## Install
 
-To use this template, you will need the following: `pnpm` and `node >= 18.16.0`.
+Install the package and add a `.eslintrc.js` file with the following content:
+```js
+module.exports = {
+  extends: '@sapphire/eslint-config'
+};
+```
 
 ## Author
 
