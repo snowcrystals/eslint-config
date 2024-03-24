@@ -36,7 +36,7 @@
 Install the package and add a `.eslintrc.js` file with the following content:
 ```js
 module.exports = {
-  extends: '@sapphire/eslint-config'
+  extends: '@snowcrystals/eslint-config'
 };
 ```
 
