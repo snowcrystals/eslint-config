@@ -1,7 +1,13 @@
+[repo]
+name = "eslint-config"
+owner = "snowcrystals"
+description = "Eslint config cuz copy paste is no go ✨"
+license = "MIT"
+
 [project]
 icon = "https://raw.githubusercontent.com/snowcrystals/.github/main/logo.png"
 icon_width = "100px"
-version = "1.0.0"
+version = "1.0.1"
 
 [variables]
 information = "🔗 Extended version of the [@sapphire/eslint-config](https://npmjs.org/@sapphire/eslint-config) package."
