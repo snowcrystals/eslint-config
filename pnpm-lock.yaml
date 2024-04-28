@@ -38,8 +38,8 @@ dependencies:
 
 devDependencies:
   '@favware/cliff-jumper':
-    specifier: ^3.0.2
-    version: 3.0.2
+    specifier: ^3.0.3
+    version: 3.0.3
   '@sapphire/ts-config':
     specifier: ^5.0.1
     version: 5.0.1
@@ -328,8 +328,8 @@ packages:
     engines: {node: ^12.22.0 || ^14.17.0 || >=16.0.0}
     dev: false
 
-  /@favware/cliff-jumper@3.0.2:
-    resolution: {integrity: sha512-N+jz8e+U+CQLBG8hTy5gduzKW9qGMa89R469LsimUekw3z2cEimZv8lG+WoxCeCZyUls3VXRTA6aXmjhdm06fw==}
+  /@favware/cliff-jumper@3.0.3:
+    resolution: {integrity: sha512-YUeNpExxRu0XrV39aHP9msHBpPPNdog2Gad3MGNzmXAEaM5Qu2xxtOsXKwNzZlCjADbsP03S8oL2nKhAp6nb5w==}
     engines: {node: '>=v16'}
     hasBin: true
     dependencies:
