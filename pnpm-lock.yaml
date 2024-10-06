@@ -68,11 +68,11 @@ devDependencies:
     specifier: ^8.3.0
     version: 8.3.0(typescript@5.6.2)
   typedoc:
-    specifier: ^0.26.7
-    version: 0.26.7(typescript@5.6.2)
+    specifier: ^0.26.8
+    version: 0.26.8(typescript@5.6.2)
   typedoc-json-parser:
-    specifier: ^10.1.5
-    version: 10.1.5
+    specifier: ^10.1.6
+    version: 10.1.6
   typescript:
     specifier: 5.6.2
     version: 5.6.2
@@ -3382,8 +3382,8 @@ packages:
       possible-typed-array-names: 1.0.0
     dev: false
 
-  /typedoc-json-parser@10.1.5:
-    resolution: {integrity: sha512-oEe0QqhWcqM41hP9HHBAfXtbuNre2S0/uyDkb4CdhsahxaV9Wzc8jh0nrfestd8VgfshHZ2q+Bae54dWmw8Gmg==}
+  /typedoc-json-parser@10.1.6:
+    resolution: {integrity: sha512-UAE57swJzCtU42RK6Ds6/ksHWFjvSZvolA8F9tDkQJrPW10IcUFud3tobEgi0TBVGxo69Cz0EL9E5Va8Y1RFeA==}
     engines: {node: '>=20', npm: '>=6'}
     hasBin: true
     dependencies:
@@ -3393,12 +3393,12 @@ packages:
       commander: 12.1.0
       js-yaml: 4.1.0
       tslib: 2.7.0
-      typedoc: 0.26.7(typescript@5.6.2)
+      typedoc: 0.26.8(typescript@5.6.2)
       typescript: 5.6.2
     dev: true
 
-  /typedoc@0.26.7(typescript@5.6.2):
-    resolution: {integrity: sha512-gUeI/Wk99vjXXMi8kanwzyhmeFEGv1LTdTQsiyIsmSYsBebvFxhbcyAx7Zjo4cMbpLGxM4Uz3jVIjksu/I2v6Q==}
+  /typedoc@0.26.8(typescript@5.6.2):
+    resolution: {integrity: sha512-QBF0BMbnNeUc6U7pRHY7Jb8pjhmiNWZNQT8LU6uk9qP9t3goP9bJptdlNqMC0wBB2w9sQrxjZt835bpRSSq1LA==}
     engines: {node: '>= 18'}
     hasBin: true
     peerDependencies:
