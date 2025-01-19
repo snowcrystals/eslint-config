@@ -38,7 +38,7 @@
 		"@typescript-eslint/parser": "^7.18.0",
 		"eslint-config-prettier": "^9.1.0",
 		"eslint-plugin-import": "^2.31.0",
-		"eslint-plugin-prettier": "^5.2.1",
+		"eslint-plugin-prettier": "^5.2.3",
 		"eslint-plugin-simple-import-sort": "^12.1.1",
 		"@sapphire/eslint-config": "^5.0.5",
 		"prettier": "^3.4.2"
