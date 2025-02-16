@@ -47,8 +47,8 @@ devDependencies:
     specifier: ^1.0.0
     version: 1.0.0
   '@types/node':
-    specifier: ^20.17.17
-    version: 20.17.17
+    specifier: ^20.17.19
+    version: 20.17.19
   husky:
     specifier: ^9.1.7
     version: 9.1.7
@@ -68,8 +68,8 @@ devDependencies:
     specifier: ^8.3.6
     version: 8.3.6(typescript@5.7.3)
   typedoc:
-    specifier: ^0.27.6
-    version: 0.27.6(typescript@5.7.3)
+    specifier: ^0.27.7
+    version: 0.27.7(typescript@5.7.3)
   typedoc-json-parser:
     specifier: ^10.2.0
     version: 10.2.0
@@ -781,8 +781,8 @@ packages:
     resolution: {integrity: sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==}
     dev: false
 
-  /@types/node@20.17.17:
-    resolution: {integrity: sha512-/WndGO4kIfMicEQLTi/mDANUu/iVUhT7KboZPdEqqHQ4aTS+3qT3U5gIqWDFV+XouorjfgGqvKILJeHhuQgFYg==}
+  /@types/node@20.17.19:
+    resolution: {integrity: sha512-LEwC7o1ifqg/6r2gn9Dns0f1rhK+fPFDoMiceTJ6kWmVk6bgXBI/9IOWfVan4WiAavK9pIVWdX0/e3J+eEUh5A==}
     dependencies:
       undici-types: 6.19.8
     dev: true
@@ -3409,8 +3409,8 @@ packages:
       yaml: 2.7.0
     dev: true
 
-  /typedoc@0.27.6(typescript@5.7.3):
-    resolution: {integrity: sha512-oBFRoh2Px6jFx366db0lLlihcalq/JzyCVp7Vaq1yphL/tbgx2e+bkpkCgJPunaPvPwoTOXSwasfklWHm7GfAw==}
+  /typedoc@0.27.7(typescript@5.7.3):
+    resolution: {integrity: sha512-K/JaUPX18+61W3VXek1cWC5gwmuLvYTOXJzBvD9W7jFvbPnefRnCHQCEPw7MSNrP/Hj7JJrhZtDDLKdcYm6ucg==}
     engines: {node: '>= 18'}
     hasBin: true
     peerDependencies:
@@ -3421,7 +3421,7 @@ packages:
       markdown-it: 14.1.0
       minimatch: 9.0.5
       typescript: 5.7.3
-      yaml: 2.6.1
+      yaml: 2.7.0
     dev: true
 
   /typescript@5.7.3:
@@ -3535,12 +3535,6 @@ packages:
   /wrappy@1.0.2:
     resolution: {integrity: sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==}
     dev: false
-
-  /yaml@2.6.1:
-    resolution: {integrity: sha512-7r0XPzioN/Q9kXBro/XPnA6kznR73DHq+GXh5ON7ZozRO6aMjbmiBuKste2wslTFkC5d1dw0GooOCepZXJ2SAg==}
-    engines: {node: '>= 14'}
-    hasBin: true
-    dev: true
 
   /yaml@2.7.0:
     resolution: {integrity: sha512-+hSoy/QHluxmC9kCIJyL/uyFmLmc+e5CFR5Wa+bpIhIj85LVb9ZH2nVnqrHoSvKogwODv0ClqZkmiSSaIH5LTA==}
