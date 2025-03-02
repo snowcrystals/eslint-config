@@ -47,16 +47,16 @@
 		"@favware/cliff-jumper": "^4.1.0",
 		"@sapphire/ts-config": "^5.0.1",
 		"@snowcrystals/prettier-config": "^1.0.0",
-		"@types/node": "^20.17.19",
+		"@types/node": "^20.17.22",
 		"husky": "^9.1.7",
 		"is-ci": "^3.0.1",
 		"lint-staged": "^15.4.3",
 		"nodemon": "^3.1.9",
 		"pinst": "^3.0.0",
-		"tsup": "^8.3.6",
-		"typedoc": "^0.27.8",
+		"tsup": "^8.4.0",
+		"typedoc": "^0.27.9",
 		"typedoc-json-parser": "^10.2.0",
-		"typescript": "5.7.3"
+		"typescript": "5.8.2"
 	},
 	"engines": {
 		"node": ">= v18.16.0"
