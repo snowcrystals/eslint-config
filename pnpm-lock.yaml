@@ -68,8 +68,8 @@ devDependencies:
     specifier: ^8.4.0
     version: 8.4.0(typescript@5.8.3)
   typedoc:
-    specifier: ^0.28.2
-    version: 0.28.2(typescript@5.8.3)
+    specifier: ^0.28.3
+    version: 0.28.3(typescript@5.8.3)
   typedoc-json-parser:
     specifier: ^10.2.0
     version: 10.2.0
@@ -3466,11 +3466,11 @@ packages:
       minimatch: 9.0.5
       shiki: 1.16.2
       typescript: 5.8.3
-      yaml: 2.7.0
+      yaml: 2.7.1
     dev: true
 
-  /typedoc@0.28.2(typescript@5.8.3):
-    resolution: {integrity: sha512-9Giuv+eppFKnJ0oi+vxqLM817b/IrIsEMYgy3jj6zdvppAfDqV3d6DXL2vXUg2TnlL62V48th25Zf/tcQKAJdg==}
+  /typedoc@0.28.3(typescript@5.8.3):
+    resolution: {integrity: sha512-5svOCTfXvVSh6zbZKSQluZhR8yN2tKpTeHZxlmWpE6N5vc3R8k/jhg9nnD6n5tN9/ObuQTojkONrOxFdUFUG9w==}
     engines: {node: '>= 18', pnpm: '>= 10'}
     hasBin: true
     peerDependencies:
