@@ -54,7 +54,7 @@
 		"nodemon": "^3.1.9",
 		"pinst": "^3.0.0",
 		"tsup": "^8.4.0",
-		"typedoc": "^0.28.2",
+		"typedoc": "^0.28.3",
 		"typedoc-json-parser": "^10.2.0",
 		"typescript": "5.8.3"
 	},
